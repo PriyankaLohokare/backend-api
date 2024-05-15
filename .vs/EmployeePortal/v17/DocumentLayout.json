@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\dtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\dtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\mappingprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\employeeportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\employeeportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\data\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\data\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\migrations\\20240514173203_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\migrations\\20240514173203_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|d:\\employeeportal\\.net core\\employeeportal\\employeeportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB907C4-978A-408F-B56A-1FB736E206F3}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeePortal\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:45:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeePortal\\Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:50:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\DTOs\\EmployeeUpdateDto.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "EmployeePortal\\DTOs\\EmployeeUpdateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:07.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile .cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\MappingProfile .cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\MappingProfile .cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\MappingProfile .cs",
+              "RelativeToolTip": "EmployeePortal\\MappingProfile .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:47:05.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Program.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeToolTip": "EmployeePortal\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:27:24.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeCreateDto.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\DTOs\\EmployeeCreateDto.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\DTOs\\EmployeeCreateDto.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\DTOs\\EmployeeCreateDto.cs",
+              "RelativeToolTip": "EmployeePortal\\DTOs\\EmployeeCreateDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:24.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeePortal\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:46:00.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:46:51.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeePortal.csproj",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
+              "RelativeDocumentMoniker": "EmployeePortal\\EmployeePortal.csproj",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
+              "RelativeToolTip": "EmployeePortal\\EmployeePortal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T17:02:21.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\Employee.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:58:27.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeePortal\\appsettings.json",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\appsettings.json",
+              "RelativeToolTip": "EmployeePortal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T17:18:59.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeePortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:11:16.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Data\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Data\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Data\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeePortal\\Data\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:50:57.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240514173203_intial.cs",
+              "DocumentMoniker": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Migrations\\20240514173203_intial.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Migrations\\20240514173203_intial.cs",
+              "ToolTip": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\Migrations\\20240514173203_intial.cs",
+              "RelativeToolTip": "EmployeePortal\\Migrations\\20240514173203_intial.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:32:03.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
