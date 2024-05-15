@@ -4641,11 +4641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
+      "projectUniqueName": "D:\\EmployeePortal\\.Net project API\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
       "projectName": "EmployeePortal",
-      "projectPath": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
+      "projectPath": "D:\\EmployeePortal\\.Net project API\\EmployeePortal\\EmployeePortal\\EmployeePortal.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\EmployeePortal\\.Net core\\EmployeePortal\\EmployeePortal\\obj\\",
+      "outputPath": "D:\\EmployeePortal\\.Net project API\\EmployeePortal\\EmployeePortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
